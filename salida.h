@@ -7,6 +7,9 @@ void escribir_num(int i){
 void escribir(int res){
     printf("el resultado es %d\n",res);
 }//escribe el nuevo resultado hoy
+void escribir_zero(){
+    printf("divizion entre zero\n");
+}
 void escribir_Exit(){
     printf("Hasta la Vista\n");
 }
